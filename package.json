@@ -4,8 +4,8 @@
     "description": "",
     "main": "api.js",
     "scripts": {
-        "start": "node ./src/api.js",
-        "test": "mocha --timeout 10000"
+        "start": "node ./src/api.js"
+
     },
     "author": "",
     "license": "ISC",
